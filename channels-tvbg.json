@@ -49,6 +49,14 @@
 		"bTV Comedy": {
 			"g": "mv"
 		},
+		"bTV Comedy HD": {
+			"g": "mv",
+			"l": "btvcomedy"
+		},
+		"bTV Cinema HD": {
+			"g": "mv",
+			"l": "btvcinema"
+		},
 		"bTV Lady": {
 			"g": "mv"
 		},
@@ -166,6 +174,10 @@
 		},
 		"Viasat History": {
 			"g": "dc"
+		},
+		"Viasat History HD": {
+			"g": "dc",
+			"l": "viasathistoryhd",
 		},
 		"Viasat Nature": {
 			"g": "dc"
