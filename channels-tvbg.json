@@ -36,8 +36,9 @@
 			"l": "bnthd"
 		},
     		"Нова HD": {
-			"id": "Nova HD",
-      			"g": "bg"
+			"id": "Nova",
+      			"g": "bg",
+			"l": "nova"
 		},
 		"bTV": {
 			"g": "bg"
