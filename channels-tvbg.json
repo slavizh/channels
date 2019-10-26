@@ -133,7 +133,8 @@
             "g": "mv"
         },
         "AXN White": {
-            "g": "mv"
+            "g": "mv",
+            "id": "AXN White"
         },
         "AXN Black": {
             "g": "mv"
@@ -396,6 +397,10 @@
             "g": "dc"
         },
         "24 Kitchen": {
+            "g": "th"
+        },
+        "24 Kitchen HD": {
+            "id": "24 Kitchen",
             "g": "th"
         },
         "Fine Living": {
