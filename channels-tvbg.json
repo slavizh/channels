@@ -41,8 +41,11 @@
             "l": "nova"
         },
         "7/8 HD": {
-            "id": "78 hd",
             "n": "78 HD",
+            "g": "bg"
+        },
+        "7/8 TV": {
+            "n": "78 TV",
             "g": "bg"
         },
         "bTV": {
@@ -679,7 +682,8 @@
             "g": "mv"
         },
         "Sky SciFi/Horror": {
-            "g": "mv"
+            "g": "mv",
+            "n": "Sky SciFi Horror"
         },
         "Sky Select": {
             "g": "en"
@@ -1117,6 +1121,7 @@
         },
         "Cartoon Network / TCM": {
             "id": "Cartoon Network",
+            "n": "Cartoon Network TCM",
             "g": "ki"
         },
         "CN": {
@@ -1206,13 +1211,15 @@
         },
         "Детский мир / Телеклуб": {
             "id": "Детский мир",
+            "n": "Детский мир Телеклуб",
             "g": "ki"
         },
         "RiC": {
             "g": "ki"
         },
         "Veronica / Disney (NL)": {
-            "g": "ki"
+            "g": "ki",
+            "n": "Veronica Disney (NL)"
         },
         "Pink Kids": {
             "g": "ki"
@@ -1442,7 +1449,12 @@
             "g": "de"
         },
         "ARD / Das Erste": {
-            "g": "de"
+            "g": "de",
+            "n": "ARD Das Erste"
+        },
+        "ARD / Das Erste HD": {
+            "g": "de",
+            "n": "ARD Das Erste HD"
         },
         "ARD One": {
             "g": "de"
