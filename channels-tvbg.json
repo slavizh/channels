@@ -23,6 +23,7 @@
         "BNT World": {
             "n": "БНТ 4",
             "id": "БНТ 4",
+            "l": "bnt4",
             "g": "bg"
         },
         "БНТ HD": {
@@ -66,6 +67,10 @@
         },
         "bTV Lady": {
             "g": "mv"
+        },
+        "bTV Lady HD": {
+            "g": "mv",
+            "l": "btvlady"
         },
         "BTV Lady LQ": {
             "id": "bTV Lady",
