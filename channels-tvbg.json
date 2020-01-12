@@ -32,6 +32,7 @@
             "g": "st"
         },
         "БНТ HD в SD": {
+            "n": "БНТ 3 SD"
             "id": "БНТ 3",
             "g": "st"
         },
@@ -48,6 +49,11 @@
         "7/8 TV": {
             "id": "78TV",
             "n": "78 TV",
+            "g": "bg"
+        },
+        "7/8 LQ": {
+            "id": "78TV",
+            "n": "78 LQ",
             "g": "bg"
         },
         "bTV": {
@@ -505,6 +511,9 @@
             "g": "st"
         },
         "Supper Tennis": {
+            "g": "st"
+        },
+        "Supper Tennis HD": {
             "g": "st"
         },
         "Racing UK": {
